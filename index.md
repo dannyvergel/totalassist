@@ -7,7 +7,7 @@ description: "Ofrecemos soluciones IT personalizadas para empresas"
 # Total Assist
 Bienvenidos a **Total Assist**, tu solución confiable en servicios IT para empresas. Ofrecemos una amplia gama de servicios que se adaptan a tus necesidades.
 
-![Logo de Total Assist](assets/img/logo.svg)
+![Logo de Total Assist](assets/img/logo.jpg)
 
 
 ## Nuestros Servicios

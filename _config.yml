@@ -1,0 +1,12 @@
+# Configuración de Jekyll
+title: "Total Assist - Servicios IT"
+description: "Ofrecemos soluciones IT personalizadas para empresas"
+theme: jekyll-theme-cayman
+baseurl: "" # para GitHub Pages puede dejarse vacío
+url: "https://tu-usuario.github.io" # URL de tu sitio
+permalink: /:title/
+
+# Configuración extra
+markdown: kramdown
+plugins:
+  - jekyll-feed

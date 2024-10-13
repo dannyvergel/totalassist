@@ -16,4 +16,4 @@ Bienvenidos a **Total Assist**, tu solución confiable en servicios IT para empr
 - **Desarrollo de Software**: Aplicaciones personalizadas para tu negocio.
 
 ## Contacto
-Para más información, [contáctanos](#contacto) hoy mismo.
+Para más información, [contáctanos](#https://wa.me/5493413276015) hoy mismo.
